@@ -4,9 +4,9 @@
          
   <modelVersion>4.0.0</modelVersion>
   <groupId>bgawel.kata</groupId>
-  <artifactId>string-calculator-kata</artifactId>
+  <artifactId>kata</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>String Calculator Kata</name>
+  <name>Kata</name>
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

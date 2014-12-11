@@ -5,7 +5,7 @@ import static bgawel.kata.bowlinggame.Frame.isStrike;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Frames {
+class Frames {
 
     private static final int NUMBER_OF_FRAMES = 10;
 
